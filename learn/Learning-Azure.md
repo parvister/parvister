@@ -3,6 +3,8 @@
 
 Quickstart links to documentation and code for learning how to work with Microsoft Azure Cloud.
 
+
+
 ## Concepts and Fundamentals
 
 **[Quickstart Video Guide](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)**
@@ -14,12 +16,16 @@ Quickstart links to documentation and code for learning how to work with Microso
 - [GCP to Azure Service Comparison](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services)
 - [Azure Resource Manager (ARM)](https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide#azure-resource-manager): JSON templates to create a group of resources at once.
 
-
-
 ### Terminology
 
 1. Service Principal Account: programmable access key that grants access to specific resources or resource groups
 1. Azure role-based access control (RBAC): Granting users access to resources or resource groups
+
+
+## Documentation
+
+1. [Azure for Python Developers](https://docs.microsoft.com/en-us/azure/developer/python/?view=azure-python)
+
 
 ## Services
 
