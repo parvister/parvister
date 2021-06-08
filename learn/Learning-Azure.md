@@ -10,7 +10,7 @@ Quickstart links to documentation and code for learning how to work with Microso
 **[Quickstart Video Guide](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)**
 
 **[Azure Quickstart Center](https://portal.azure.com/?quickstart=True#blade/Microsoft_Azure_Resources/QuickstartCenterBlade)**
-\
+
 - [Azure fundamental concepts and terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
 - [Getting Started Guide for Developers](https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide#azure-resource-manager): Basic Azure resources to use and their functionality
 - [GCP to Azure Service Comparison](https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services)
