@@ -39,7 +39,19 @@ Michael Parks: https://flywheeldata.com/
 -------------------------------------------------
 
 
-## Review master service agreement to see what you’ve agreed to
+## DTNA
+
+1. Review Daimler Project organization board -- agile board
+1. Figure out where they sit in the org chart
+1. Spend more time at the Daimler office
+1. Establish personal relationship with the Directo/Doug (runs azure analytics)
+  - Begin to create relationship with Doug/director
+  - Pain points?
+  - Possibility points?
+  - Understand the skills sets of 40-50 contractors
+
+
+## Follow Up with Epicodus
 
 
 ## Practice to stay in trust
@@ -54,54 +66,7 @@ Michael Parks: https://flywheeldata.com/
   - see myself as a third person.
 
   Invite your partner to support you in remaining in trust.
-
-
-## Update the numbers
-
-
-## Website link to Tracey
-
-
-## PSU marketing report to Tracey
-
-
-## Pursue replacing Jen in her contract with another front end developer
-  1. Michael?
-  1. Pursue epicodus graduates
-  1. Jacqueline
-
-
-## Syntel DTNA plan
-
-   - Create a predictable program for Atos/Syntel to know what to expect with the Daimler engagement.  
-   - Should you create a commission structure?
-   - What happens if the Daimler falls in love with Parham?
-
-
-## Send Tracey the new website link
-
-
-## Prepare for Epicodus sales opportunity (exclusivity, non-compete, etc)
-
-
-## Send business analysis to Tracey from the PSU engagement
-
-
-## Create slides for DSA webinar
-   - Decide on when to launch, how to market, what your demographic will be, how to create a call to action 
-   - how and if to make it evergreen-- all to discuss next time
-   - **Consider how an “agile” format could work.**
-
-
-## Keep in touch with Pete and Carlos re astronomer opportunities
-
-
-## Check in with Molly and Jaclyn 
-
-  1. Kat's friend
 	
-
-
 
 # Webinars
 ------------------------------------------------
