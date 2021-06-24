@@ -53,6 +53,8 @@ Michael Parks: https://flywheeldata.com/
 
 ## Follow Up with Epicodus
 
+## Update Q2 actuals  - Predict Q3
+
 
 ## Practice to stay in trust
   1. When you move into struggle/trust issues, 
