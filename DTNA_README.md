@@ -10,6 +10,13 @@ Anuragg: modeling (maybe DS)
 
 CI/CD: Azure ML Studio (need to see integration) & Azure DevOps
 
+# Cost Management Dashboard todo
+
+- group tagging resources
+- finding resource creator
+- resource list db table (with tags)
+- email tagging system
+
 
 # Landscape
 
