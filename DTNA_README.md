@@ -13,9 +13,17 @@ CI/CD: Azure ML Studio (need to see integration) & Azure DevOps
 # Cost Management Dashboard todo
 
 - group tagging resources
+- daily download manager
+- df clean up and json parse
+- parquet edw on synapse or analysis services
+- mssql db storage
 - finding resource creator
+- auto tag policy with user & other info
 - resource list db table (with tags)
-- email tagging system
+- tagging webapp with activation link
+- email system 
+- tagging policy for prod
+- anomaly detection service
 
 
 # Landscape
