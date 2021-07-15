@@ -62,7 +62,7 @@ Michael Parks: https://flywheeldata.com/
   - Already has Full Stack, Front-end, PM
   - DS: $16,900.00
   - Good twitter community
-  
+
 
 
 
@@ -83,7 +83,7 @@ Michael Parks: https://flywheeldata.com/
 # Webinars
 ------------------------------------------------
 
-SCHEUDLE:
+SCHEDULE:
 1. 3 wks apart
 1. 1st wk webinar, 2nd wk recording + fireside chat, 3rd wk marketing for next
 
