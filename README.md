@@ -55,6 +55,16 @@ Michael Parks: https://flywheeldata.com/
 
 ## Update Q2 actuals  - Predict Q3
 
+## Other Bootcamps Research
+
+1. [Flat Iron](https://flatironschool.com/campus-and-online-data-science-bootcamp/)
+  - New York, Austin, Washington, Seattle
+  - Already has Full Stack, Front-end, PM
+  - DS: $16,900.00
+  - Good twitter community
+  
+
+
 
 ## Practice to stay in trust
   1. When you move into struggle/trust issues, 
