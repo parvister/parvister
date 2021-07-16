@@ -39,6 +39,24 @@ Michael Parks: https://flywheeldata.com/
 -------------------------------------------------
 
 
+
+## Fill in monthly actuals from Jan to present
+
+
+## Update projected for July-Dec
+
+
+## Create packages for Astronomer
+
+
+## Consider webinar ideas/talk to Looker about it
+
+
+## Follow up with Epicodus 
+
+
+## Think about how to engage in relationship building with NYC boot camps
+
 ## DTNA
 
 1. Review Daimler Project organization board -- agile board
@@ -51,18 +69,39 @@ Michael Parks: https://flywheeldata.com/
   - Understand the skills sets of 40-50 contractors
 
 
-## Follow Up with Epicodus
-
 ## Update Q2 actuals  - Predict Q3
 
 ## Other Bootcamps Research
 
-1. [Flat Iron](https://flatironschool.com/campus-and-online-data-science-bootcamp/)
+1. **[Flat Iron](https://flatironschool.com/campus-and-online-data-science-bootcamp/)**
   - New York, Austin, Washington, Seattle
   - Already has Full Stack, Front-end, PM
   - DS: $16,900.00
   - Good twitter community
 
+1. [Thinkful]
+  - Already have DS, SE, BA, PM
+  - DS: $7,900, BA: $12,250
+  - Deferred tuition + living expenses!
+
+1. [Practical Programming](https://programwithus.com/certificates/data-science-nyc#overview)
+1. [Noble Desktop](https://www.nobledesktop.com/topics/python-classes-nyc#corporate-training)
+  - Smaller, very focused on python and DS
+  - DS: $3,495
+  - Selling individual modules (might be problematic)
+  - Inactive social media
+
+1. [Full Stack Academy](https://www.fullstackacademy.com/data-analytics-bootcamp)
+  - NYC only
+  - BA, SE
+  - BA: $14,500
+  - Great reviews online
+
+1. **[Codesmith](https://codesmith.io/software-engineering-immersive#syllabus)**
+  - NYC, LA
+  - No DS or other programs
+  - Great reviews and site
+  - SE: $16,950
 
 
 
