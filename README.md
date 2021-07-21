@@ -40,10 +40,11 @@ Michael Parks: https://flywheeldata.com/
 
 
 
-## Fill in monthly actuals from Jan to present
-
-
-## Update projected for July-Dec
+## Topics to discuss:
+  1. hiring DE resource in August
+  1. Bringing on a partner
+  1. Webinar
+  1. Updating tura's website
 
 
 ## Create packages for Astronomer
