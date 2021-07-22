@@ -46,15 +46,11 @@ Michael Parks: https://flywheeldata.com/
   1. Webinar
   1. Updating tura's website
 
-
 ## Create packages for Astronomer
-
 
 ## Consider webinar ideas/talk to Looker about it
 
-
-## Follow up with Epicodus 
-
+## ~~Follow up with Epicodus~~ 
 
 ## Think about how to engage in relationship building with NYC boot camps
 
