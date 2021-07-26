@@ -41,18 +41,13 @@ Michael Parks: https://flywheeldata.com/
 
 
 ## Topics to discuss:
-  1. hiring DE resource in August
-  1. Bringing on a partner
-  1. Webinar
   1. Updating tura's website
 
-## Create packages for Astronomer
+# F/U with Will re the webinar with Looker
 
-## Consider webinar ideas/talk to Looker about it
+# Go to Pete at Looker for package and webinar
 
-## ~~Follow up with Epicodus~~ 
-
-## Think about how to engage in relationship building with NYC boot camps
+# Consider a rotation structure for marketing activities for Tura
 
 ## DTNA
 
