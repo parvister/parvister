@@ -39,6 +39,19 @@ Michael Parks: https://flywheeldata.com/
 -------------------------------------------------
 
 
+Rachel Bussert11:34 AM
+• Name of company
+• Job title
+• Language or stack
+• Hours per week
+• Length of employment (permanent, or contract length)
+• Date of job offer
+• Where you found out about the job
+• When you applied for/heard about the job 
+• Salary/pay (or just confirmation that it's paid)
+
+
+
 
 ## Topics to discuss:
   1. Updating tura's website
