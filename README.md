@@ -35,9 +35,6 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 Michael Parks: https://flywheeldata.com/ 
 
 
-# Tura Strategy
--------------------------------------------------
-
 
 Rachel Bussert11:34 AM
 • Name of company
@@ -55,8 +52,26 @@ Rachel Bussert11:34 AM
 Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-with-azure-data-factory?utm_campaign=Marketing&utm_medium=email&_hsmi=148921989&_hsenc=p2ANqtz-9DOikQM9pf1S-musrmvhMWc9Bu_POhr4LFPMZBQiQgmqAheQH6kbQfka1Z6FLkGCcLlrKLMhj-BfoKW3svJOjj6XPGFA&utm_content=148921989&utm_source=hs_email
 
 
+
+# Tura Strategy
+-------------------------------------------------
+
 ## Topics to discuss:
   1. Updating tura's website
+
+Action Items:
+
+# Write the manifesto for the Iran ambition by mid September
+
+# Put the word out on hiring/ someone who can lead, etc
+
+# Following up with Epicodus
+
+# Follow up with Doug on short term project
+
+# Follow up with Doug on the Product Owner
+
+# Set up meeting with ZData and DTNA
 
 # F/U with Will re the webinar with Looker
 
