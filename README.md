@@ -52,6 +52,8 @@ Rachel Bussert11:34 AM
 
 
 
+Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-with-azure-data-factory?utm_campaign=Marketing&utm_medium=email&_hsmi=148921989&_hsenc=p2ANqtz-9DOikQM9pf1S-musrmvhMWc9Bu_POhr4LFPMZBQiQgmqAheQH6kbQfka1Z6FLkGCcLlrKLMhj-BfoKW3svJOjj6XPGFA&utm_content=148921989&utm_source=hs_email
+
 
 ## Topics to discuss:
   1. Updating tura's website
