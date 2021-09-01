@@ -36,7 +36,7 @@ Michael Parks: https://flywheeldata.com/
 
 
 
-Rachel Bussert11:34 AM
+Rachel Bussert:
 • Name of company
 • Job title
 • Language or stack
@@ -46,7 +46,6 @@ Rachel Bussert11:34 AM
 • Where you found out about the job
 • When you applied for/heard about the job 
 • Salary/pay (or just confirmation that it's paid)
-
 
 
 Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-with-azure-data-factory?utm_campaign=Marketing&utm_medium=email&_hsmi=148921989&_hsenc=p2ANqtz-9DOikQM9pf1S-musrmvhMWc9Bu_POhr4LFPMZBQiQgmqAheQH6kbQfka1Z6FLkGCcLlrKLMhj-BfoKW3svJOjj6XPGFA&utm_content=148921989&utm_source=hs_email
