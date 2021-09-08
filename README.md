@@ -55,6 +55,14 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 # Tura Strategy
 -------------------------------------------------
 
+## Iran manifesto
+
+## Shoe-leather marketing for Boot camp (to parents and service folks)
+
+## Follow up on Doug proposals
+
+## Heal from whatever happened this weekend 
+
 ## Topics to discuss:
   1. Updating tura's website
 
