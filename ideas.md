@@ -1,4 +1,8 @@
 
+## Guerrilla Marketing:
+
+- https://enterpriseleague.com/blog/creative-guerrilla-marketing-ideas/
+
 ## Bitmo
 
 Isometric example: https://media.jfrog.com/wp-content/uploads/2020/03/20123919/jfrog_platform_with_jfrog_logo_forDev.mp4
