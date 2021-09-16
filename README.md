@@ -68,8 +68,6 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 
 ## Follow up on Doug proposals
 
-## Heal from whatever happened this weekend 
-
 ## Topics to discuss:
   1. Updating tura's website
 
