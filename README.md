@@ -12,29 +12,12 @@
 **Hobbies**
   1. Computer thngs that make me happy!
 
- **Injuries**
-   1. hamstring injury: https://orthoinfo.aaos.org/en/diseases--conditions/hamstring-muscle-injuries
-   1. semitendinosus muscle
-   1. hurst inside pelvis: bicop femoris / semitendinosus tendon
-   1. https://www.youtube.com/watch?v=hI-fyUFHxr8
-   1. Proximal Hamstring Tendinopathy
-
-**Maman**:
-  1. optician school
-  1. VA SBA and health regulations
- 
 
 https://github.com/ThibTrip/pangres/wiki/Upsert
 
 
 # General Business Notes
 -------------------------------------------------
-
-## continous solutions
-
-Michael Parks: https://flywheeldata.com/ 
-
-
 
 Rachel Bussert:
 • Name of company
