@@ -57,7 +57,7 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 
 ## Iran manifesto
 
-I like to look into an Iranian kid's face, see the smile on their face and know that I had something to contribute to that smile.
+I like to look into an Iranian kid's face, witness the smile on their face and know that I had something to contribute to that smile.
 
 I want a young woman in Iran to believe they have every bit of an opportunity in this life as a man. I want them to believe they have equal employment and equal human rights.
 
