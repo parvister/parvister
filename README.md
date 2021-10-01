@@ -51,9 +51,9 @@ Rachel Bussert:
 Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-with-azure-data-factory?utm_campaign=Marketing&utm_medium=email&_hsmi=148921989&_hsenc=p2ANqtz-9DOikQM9pf1S-musrmvhMWc9Bu_POhr4LFPMZBQiQgmqAheQH6kbQfka1Z6FLkGCcLlrKLMhj-BfoKW3svJOjj6XPGFA&utm_content=148921989&utm_source=hs_email
 
 
-- look into find destination for posibilities of major airports or major paths
-- generate onway flights, iterate throuhg desitnation to find direct flights 
-- load round trip flights posibility, load_date_range with append option, and clear method
+- look into find destination for possibilities of major airports or major paths
+- generate one-way flights, iterate through destination to find direct flights 
+- load round trip flights possibility, load_date_range with append option, and clear method
 - create find_path option
   - search with airline, src, dest, and departure time limits
   - recursive search for direct flight and then possible connecting flights
@@ -61,6 +61,16 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 
 # Tura Strategy
 -------------------------------------------------
+
+- Downsize the feasibility proposal for DTNA
+- Check in with Pete (Astronomer)
+- Design 1-2 hours per week to pursue new business outside of DTNA
+  - Other subs
+  - Other companies
+  - Reference USA through your library (mine is WCCLS)
+- Finalize Epicodus
+- Complete the Looker strategy with Tyson
+
 
 ## Iran manifesto
 
