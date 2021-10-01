@@ -57,6 +57,21 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 
 ## Iran manifesto
 
+I like to look into an Iranian kid's face, see the smile on their face and know that I had something to contribute to that smile.
+
+I want a young woman in Iran to believe they have every bit of an opportunity in this life as a man. I want them to believe they have equal employment and equal human rights.
+
+I want to bear witness to the glance of hope in my Iranian _hamvatan_ face. Know that I had something to do with that.
+
+I want Iranians to be proud in this World; in their work, in their image. I want them to be proud, knowing that they are the best in their field and others globally recognize that. A technical field completely removed from oil. I want Iran to be as synonymous with this field as Germans with Cars, Swiss with watches, or Japanese with design and intricacy.
+
+I want someone to raise their head and say they're Iranian when they check into a hotel on their vacation somewhere in the World.
+
+I want Iranians to have a comfortable life in Iran, live with their families, preserve and advocate for their rich culture.
+
+I want my kids (if any) to know of Persian soil and to be proud of walking it.
+
+
 ## Shoe-leather marketing for Boot camp (to parents and service folks)
 
 ## Follow up on Doug proposals
