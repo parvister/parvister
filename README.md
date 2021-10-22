@@ -45,14 +45,7 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 # Tura Strategy
 -------------------------------------------------
 
-- Downsize the feasibility proposal for DTNA
-- Check in with Pete (Astronomer)
-- Design 1-2 hours per week to pursue new business outside of DTNA
-  - Other subs
-  - Other companies
-  - Reference USA through your library (mine is WCCLS)
-- Finalize Epicodus
-- Complete the Looker strategy with Tyson
+# Check in with Pete (Astronomer)
 
 
 # Negotiate Epicodus landing page for Data Engineering course with ETA
@@ -69,6 +62,10 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 # Gift cards for Tura Epicodus?  
 
 # Come up with one name of a partner or potential client that you want to open up business with (by Nov 3)
+# Design 1-2 hours per week to pursue new business outside of DTNA
+  - Other subs
+  - Other companies
+  - Reference USA through your library (mine is WCCLS)
 
 # DTNA:  
   - go back to office and rekindle the downsized feasibility project
