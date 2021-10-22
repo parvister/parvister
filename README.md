@@ -55,6 +55,25 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 - Complete the Looker strategy with Tyson
 
 
+# Negotiate Epicodus landing page for Data Engineering course with ETA
+
+# Get commitments on Epicodus’ marketing effort
+  - website landing page
+  - newsletter (next 11/6, 12/11)
+  - blog post
+  - advisory board blast
+
+# Lock down a start date
+  - January 3rd, 2021
+
+# Gift cards for Tura Epicodus?  
+
+# Come up with one name of a partner or potential client that you want to open up business with (by Nov 3)
+
+# DTNA:  
+  - go back to office and rekindle the downsized feasibility project
+  - Check the projects database DTNA for other opportunities
+
 ## Iran manifesto
 
 - I like to look into an Iranian kid's face, witness the smile on their face and know that I had something to contribute to that smile.
