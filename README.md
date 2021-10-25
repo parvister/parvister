@@ -182,6 +182,7 @@ Action Items:
 
 - thumbtack: https://www.thumbtack.com/or/portland/web-design/
 - PDX company: https://www.stellaractive.com/services/web-design/
+- Clutch listing: https://clutch.co/web-designers/portland
 
 
 # Webinars
