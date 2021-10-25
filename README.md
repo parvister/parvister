@@ -177,6 +177,13 @@ Action Items:
   Invite your partner to support you in remaining in trust.
 	
 
+# DataStack Academy Website Development Research
+-------------------------------------------------
+
+- thumbtack: https://www.thumbtack.com/or/portland/web-design/
+- PDX company: https://www.stellaractive.com/services/web-design/
+
+
 # Webinars
 ------------------------------------------------
 
