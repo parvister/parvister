@@ -183,6 +183,12 @@ Action Items:
 - thumbtack: https://www.thumbtack.com/or/portland/web-design/
 - PDX company: https://www.stellaractive.com/services/web-design/
 - Clutch listing: https://clutch.co/web-designers/portland
+- Upwork:
+  - https://www.upwork.com/search/profiles/?q=next.js&user_pref=2
+  - https://www.upwork.com/hire/react-js-developers/
+- Developers to hire: https://www.developersforhire.com/react/ , https://www.developersforhire.com/react/quiz?qid=wwMJBK60QShzXUJxi3DK&state=report
+- toptal: 
+  - https://www.toptal.com/react
 
 
 # Webinars
