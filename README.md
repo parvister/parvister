@@ -189,7 +189,7 @@ Action Items:
 - Developers to hire: https://www.developersforhire.com/react/ , https://www.developersforhire.com/react/quiz?qid=wwMJBK60QShzXUJxi3DK&state=report
 - toptal: 
   - https://www.toptal.com/react
-
+- Fiverr
 
 # Webinars
 ------------------------------------------------
