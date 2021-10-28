@@ -42,6 +42,16 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
   - recursive search for direct flight and then possible connecting flights
 
 
+### Epicodus webpage verbiage
+
+- Detailed Curriculum: https://drive.google.com/drive/folders/1AelHjvNFIDUmdqGu2a_h9xGX3OP8NhPy?usp=sharing
+- HECC Licensing: https://drive.google.com/drive/u/0/folders/17p4QBj11sqp1e-1QuDx58InlFr1r47Dy
+- Weekly Cadence: https://docs.google.com/document/d/1kTGhZmHdsELeh9xAOLU6wZkxXYq07tusiBM1Rv7uCMU/edit?usp=sharing
+- User Persona Synthesis (good resource): https://docs.google.com/document/d/14Cyp5Gi5ZwpWvhiwl8Lm4twggZUKPTES6j1i1IbxXJc/edit?usp=sharing
+- Old presentation: https://docs.google.com/presentation/d/1zEr8yjywiCJ5uQ4PVBkxjT6CKYbrARsZ0lV8kFvNraU/edit?usp=sharing
+
+
+
 # Tura Strategy
 -------------------------------------------------
 
