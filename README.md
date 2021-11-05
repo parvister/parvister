@@ -163,6 +163,14 @@ Action Items:
 
 
 
+Rachel Bussert2:29 PM
+Bank Name - Blue Vine 
+Account Name - Epicodus Inc. 
+Account Number -  875101528904
+Routing Number - 125109019
+
+
+
 ## Practice to stay in trust
   1. When you move into struggle/trust issues, 
   1. get out in nature, get physical, listen to music.  
