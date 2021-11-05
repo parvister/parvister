@@ -169,6 +169,10 @@ Account Name - Epicodus Inc.
 Account Number -  875101528904
 Routing Number - 125109019
 
+Rachel Bussert2:32 PM
+206-779-4860
+
+https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-working-remotely
 
 
 ## Practice to stay in trust
