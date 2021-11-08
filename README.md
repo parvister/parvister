@@ -249,7 +249,7 @@ https://www.infoworld.com/article/3612230/7-common-cloud-problems-and-how-to-fix
 
 - security: regularitoty comliance covered
 
-## 5 Ways to achieve Cloud Independece - Comparing Cloud Analytical Tools Cost, Performane, Useability
+## 5 Ways to achieve Cloud Independence - Comparing Cloud Analytical Tools Cost, Performance, Useability
 - decouple with micro-services and REST API, docker kubernetes << performance detregation 
 - Embedding into Code
 - Running all micro-services / k8s
