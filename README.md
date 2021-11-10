@@ -19,18 +19,6 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 # General Business Notes
 -------------------------------------------------
 
-Rachel Bussert:
-• Name of company
-• Job title
-• Language or stack
-• Hours per week
-• Length of employment (permanent, or contract length)
-• Date of job offer
-• Where you found out about the job
-• When you applied for/heard about the job 
-• Salary/pay (or just confirmation that it's paid)
-
-
 Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-with-azure-data-factory?utm_campaign=Marketing&utm_medium=email&_hsmi=148921989&_hsenc=p2ANqtz-9DOikQM9pf1S-musrmvhMWc9Bu_POhr4LFPMZBQiQgmqAheQH6kbQfka1Z6FLkGCcLlrKLMhj-BfoKW3svJOjj6XPGFA&utm_content=148921989&utm_source=hs_email
 
 
@@ -127,7 +115,41 @@ Action Items:
   - Understand the skills sets of 40-50 contractors
 
 
-## Update Q2 actuals  - Predict Q3
+# CJ
+---------------------------------------------------------
+
+NOVEMBER
+Week of 11/7-13
+- Meeting with Parham to finalize timeline
+- Finalize strategy and schedule
+- Meeting with graphic designer + web developer
+- Setup social media
+- ONGOING: Schedule content + social media posts/stories
+- Create database for relavant media
+- Create explainer video
+- Quiz creation + funnel
+- Setup Mailchimp
+- Competitor research + Google Alert for competitors
+- ONGOING: reaching out to connections for webinars/meeting
+- Create scripts for: personal contacts, industry professionals, etc.
+
+Week of 11/14-20
+- Approve website
+- ONGOING: Weekly meeting with Parham
+- Setup segments in Mailchimp (need the funnel/lead form to
+- be done)
+- Send out press release to media database (after site is done)
+- Submit site to relavant forums/reddit
+- ONGOING: Start pushing media spots
+- ONGOING: Start adding media spots and shoutouts on social
+- and website
+- ONGOING: Meetings with relevant connections
+- ONGOING: Sending out emails
+- ALL ONGOING
+
+
+# Bootcamps 
+-----------------------------------------------------------
 
 ## Other Bootcamps Research
 
