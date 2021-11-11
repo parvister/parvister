@@ -33,86 +33,24 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 # Tura Strategy
 -------------------------------------------------
 
-# Check in with Pete (Astronomer)
+## this week
 
+- Make sure the right fees are being proposed by ATOS
+- Come up with 3 companies to begin to pursue opportunities
 
-# Negotiate Epicodus landing page for Data Engineering course with ETA
-
-# Get commitments on Epicodus’ marketing effort
-  - website landing page
-  - newsletter (next 11/6, 12/11)
-  - blog post
-  - advisory board blast
-
-# Lock down a start date
-  - January 3rd, 2021
-
-# Gift cards for Tura Epicodus?  
-
-# Come up with one name of a partner or potential client that you want to open up business with (by Nov 3)
-# Design 1-2 hours per week to pursue new business outside of DTNA
+- Design 1-2 hours per week to pursue new business outside of DTNA
   - Other subs
   - Other companies
   - Reference USA through your library (mine is WCCLS)
 
-# DTNA:  
-  - go back to office and rekindle the downsized feasibility project
-  - Check the projects database DTNA for other opportunities
+## backlog
 
-## Iran manifesto
-
-- I like to look into an Iranian kid's face, witness the smile on their face and know that I had something to contribute to that smile.
-
-- I want a young woman in Iran to believe they have every bit of an opportunity in this life as a man. I want them to believe they have equal employment and equal human rights.
-
-- I want to bear witness to the glance of hope in my Iranian _hamvatan_ face. Know that I had something to do with that.
-
-- I want Iranians to be proud in this World; in their work, in their image. I want them to be proud, knowing that they are the best in their field and others globally recognize that. A technical field completely removed from oil. I want Iran to be as synonymous with this field as Germans with Cars, Swiss with watches, or Japanese with design and intricacy.
-
-- I want someone to raise their head and say they're Iranian when they check into a hotel on their vacation somewhere in the World.
-
-- I want Iranians to have a comfortable life in Iran, live with their families, preserve and advocate for their rich culture.
-
-- I want my kids (if any) to know of Persian soil and to be proud of walking it.
-
-
-## Shoe-leather marketing for Boot camp (to parents and service folks)
-
-## Follow up on Doug proposals
-
-## Topics to discuss:
-  1. Updating tura's website
-
-Action Items:
-
-# Write the manifesto for the Iran ambition by mid September
-
-# Put the word out on hiring/ someone who can lead, etc
-
-# Following up with Epicodus
-
-# Follow up with Doug on short term project
-
-# Follow up with Doug on the Product Owner
-
-# Set up meeting with ZData and DTNA
-
-# F/U with Will re the webinar with Looker
-
-# Go to Pete at Looker for package and webinar
-
-# Consider a rotation structure for marketing activities for Tura
-
-## DTNA
-
-1. Review Daimler Project organization board -- agile board
-1. Figure out where they sit in the org chart
-1. Spend more time at the Daimler office
-1. Establish personal relationship with the Directo/Doug (runs azure analytics)
-  - Begin to create relationship with Doug/director
-  - Pain points?
-  - Possibility points?
-  - Understand the skills sets of 40-50 contractors
+- Christmas Gift cards for Tura Epicodus? 
+- Shoe-leather marketing for Boot camp (to parents and service folks)
+- Tura's website
+- Follow up with Zdata on DTAN
+- Go to Pete at Looker for package and webinar
+- Consider a rotation structure for marketing activities for Tura
 
 
 # CJ
@@ -146,6 +84,24 @@ Week of 11/14-20
 - ONGOING: Meetings with relevant connections
 - ONGOING: Sending out emails
 - ALL ONGOING
+
+# Iran Manifesto
+-----------------------------------------------------------
+
+- I like to look into an Iranian kid's face, witness the smile on their face and know that I had something to contribute to that smile.
+
+- I want a young woman in Iran to believe they have every bit of an opportunity in this life as a man. I want them to believe they have equal employment and equal human rights.
+
+- I want to bear witness to the glance of hope in my Iranian _hamvatan_ face. Know that I had something to do with that.
+
+- I want Iranians to be proud in this World; in their work, in their image. I want them to be proud, knowing that they are the best in their field and others globally recognize that. A technical field completely removed from oil. I want Iran to be as synonymous with this field as Germans with Cars, Swiss with watches, or Japanese with design and intricacy.
+
+- I want someone to raise their head and say they're Iranian when they check into a hotel on their vacation somewhere in the World.
+
+- I want Iranians to have a comfortable life in Iran, live with their families, preserve and advocate for their rich culture.
+
+- I want my kids (if any) to know of Persian soil and to be proud of walking it.
+
 
 
 # Bootcamps 
