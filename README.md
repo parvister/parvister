@@ -16,7 +16,18 @@
 https://github.com/ThibTrip/pangres/wiki/Upsert
 
 
-# General Business Notes
+# checklist
+-------------------------------------------------
+
+- review Guy's email on git pages
+- DSA-LP standup:
+  - mockup reviews on XD and miro
+  - adding final copy to the mockup
+  - placeholder site
+  - CJ nordpass check
+
+
+# Parking Lot
 -------------------------------------------------
 
 Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-with-azure-data-factory?utm_campaign=Marketing&utm_medium=email&_hsmi=148921989&_hsenc=p2ANqtz-9DOikQM9pf1S-musrmvhMWc9Bu_POhr4LFPMZBQiQgmqAheQH6kbQfka1Z6FLkGCcLlrKLMhj-BfoKW3svJOjj6XPGFA&utm_content=148921989&utm_source=hs_email
