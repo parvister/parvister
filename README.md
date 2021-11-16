@@ -19,13 +19,6 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 # checklist
 -------------------------------------------------
 
-- review Guy's email on git pages
-- DSA-LP standup:
-  - mockup reviews on XD and miro
-  - adding final copy to the mockup
-  - placeholder site
-  - CJ nordpass check
-
 
 # Parking Lot
 -------------------------------------------------
