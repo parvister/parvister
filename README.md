@@ -10,7 +10,7 @@
   1. Snowflake
 
 **Hobbies**
-  1. Computer thngs that make me happy!
+  1. Computer things that make me happy!
 
 
 https://github.com/ThibTrip/pangres/wiki/Upsert
@@ -39,8 +39,20 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 
 ## this week
 
-- Make sure the right fees are being proposed by ATOS
+- Pursue online networking:  advisory board for DSA
+- Pursue some social media (reddit/AMA) conversations
+- Engage with ATOS for the December Deal with DTNA with sparkle!
 - Come up with 3 companies to begin to pursue opportunities
+  - https://www.kinandcarta.com/
+    great clients, global, partnership with azure and gcp, socially responsible, moral compass
+    offices in nyc, chicago, denver, sfo, NO pnw
+    execs not shows dei
+    own cascade data labs
+  - https://cascadedatalabs.com/
+  - https://www.altsourcesoftware.com/
+    front-end dev, a lot of projects
+  - https://www.vaital.io/
+    azure partnership with brian, ds
 
 - Design 1-2 hours per week to pursue new business outside of DTNA
   - Other subs
@@ -171,20 +183,6 @@ https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-wi
   Invite your partner to support you in remaining in trust.
 	
 
-# DataStack Academy Website Development Research
--------------------------------------------------
-
-- thumbtack: https://www.thumbtack.com/or/portland/web-design/
-- PDX company: https://www.stellaractive.com/services/web-design/
-- Clutch listing: https://clutch.co/web-designers/portland
-- Upwork:
-  - https://www.upwork.com/search/profiles/?q=next.js&user_pref=2
-  - https://www.upwork.com/hire/react-js-developers/
-- Developers to hire: https://www.developersforhire.com/react/ , https://www.developersforhire.com/react/quiz?qid=wwMJBK60QShzXUJxi3DK&state=report
-- toptal: 
-  - https://www.toptal.com/react
-- Fiverr
-
 # Webinars
 ------------------------------------------------
 
@@ -195,15 +193,15 @@ SCHEDULE:
 1. #1 - May 10th	- 5 Ways to Cloud Agnostic Applications
 1. #2 - May 31st	- Most Cost Effective Cloud Analytical Architecture
 1. #3 - June 21st	- Data Warehouse Modernization on the Cloud
-1. #4 - July 19th	- IoT and Telemtrics Analytics on the Cloud
+1. #4 - July 19th	- IoT and Telemetric Analytics on the Cloud
    (birthday)
 1. #5 - Aug 23rd	- Perfect GCP Analytical Architecture
-1. Monetizing Data Architetiure
+1. Monetizing Data Architecture
 
 
 ## promotions
 
-1. Get help from influencers in my netwrok to promote the webinars
+1. Get help from influencer in my network to promote the webinars
 1. Promote through PSBA
 
 
@@ -213,7 +211,7 @@ _Articles:_
 
 
 
-## Common Problems with Multi-Cloud implemntations
+## Common Problems with Multi-Cloud implementations
 https://www.infoworld.com/article/3612230/7-common-cloud-problems-and-how-to-fix-them.html
 - the current state:
 	1. the heavy contenders: aws, azure, gcp, alibaba
