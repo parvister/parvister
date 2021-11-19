@@ -54,23 +54,34 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
   - https://www.vaital.io/
     azure partnership with brian, ds
 
+- Go to Pete at Looker for package and webinar
+
 - Design 1-2 hours per week to pursue new business outside of DTNA
   - Other subs
   - Other companies
   - Reference USA through your library (mine is WCCLS)
+
 
 ## backlog
 
 - Christmas Gift cards for Tura Epicodus? 
 - Shoe-leather marketing for Boot camp (to parents and service folks)
 - Tura's website
-- Follow up with Zdata on DTAN
-- Go to Pete at Looker for package and webinar
-- Consider a rotation structure for marketing activities for Tura
+- Follow up with Zdata on DTNA
+- Consider a rotation structure for Tura/DSA webinar activities
 
 
 # CJ
 ---------------------------------------------------------
+
+Performing tasks:
+- Database / funnel
+- Newsletters
+- Talks, Webinars
+- Epicodus co-marketing
+- Shoe-letter marketing
+- sm
+
 
 NOVEMBER
 Week of 11/7-13
