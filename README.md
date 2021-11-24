@@ -53,6 +53,9 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
     front-end dev, a lot of projects
   - https://www.vaital.io/
     azure partnership with brian, ds
+  - Turing.com
+  - Upwork/Fiverr/Toptal
+  - Existing relationships
 
 - Go to Pete at Looker for package and webinar
 
@@ -67,7 +70,7 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 - Christmas Gift cards for Tura Epicodus? 
 - Shoe-leather marketing for Boot camp (to parents and service folks)
 - Tura's website
-- Follow up with Zdata on DTNA
+- Follow up with ZData on DTNA
 - Consider a rotation structure for Tura/DSA webinar activities
 
 
@@ -90,7 +93,7 @@ Week of 11/7-13
 - Meeting with graphic designer + web developer
 - Setup social media
 - ONGOING: Schedule content + social media posts/stories
-- Create database for relavant media
+- Create database for relevant media
 - Create explainer video
 - Quiz creation + funnel
 - Setup Mailchimp
@@ -104,7 +107,7 @@ Week of 11/14-20
 - Setup segments in Mailchimp (need the funnel/lead form to
 - be done)
 - Send out press release to media database (after site is done)
-- Submit site to relavant forums/reddit
+- Submit site to relevant forums/reddit
 - ONGOING: Start pushing media spots
 - ONGOING: Start adding media spots and shoutouts on social
 - and website
