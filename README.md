@@ -64,6 +64,14 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
   - Other companies
   - Reference USA through your library (mine is WCCLS)
 
+- DSA internship presentation
+  - current market demand for DEs
+  - what interns know, what they can do
+  - logistics, 5wks, remote, equipment, ...
+  - legal, paperwork, contract
+  - $x.xx per additional week ⤇ hiring path
+
+
 
 ## backlog
 
@@ -114,6 +122,7 @@ Week of 11/14-20
 - ONGOING: Meetings with relevant connections
 - ONGOING: Sending out emails
 - ALL ONGOING
+
 
 # Iran Manifesto
 -----------------------------------------------------------
