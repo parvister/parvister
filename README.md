@@ -57,7 +57,7 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
   - Upwork/Fiverr/Toptal
   - Existing relationships
 
-- Go to Pete at Looker for package and webinar
+- Go to Will at Looker for package and webinar
 
 - Design 1-2 hours per week to pursue new business outside of DTNA
   - Other subs
