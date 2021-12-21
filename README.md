@@ -82,6 +82,11 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 - Consider a rotation structure for Tura/DSA webinar activities
 
 
+# Interesting Partnerships
+
+- DSA and Tura consulting and advocate partner: https://www.theseattledataguy.com/
+
+
 # CJ
 ---------------------------------------------------------
 

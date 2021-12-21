@@ -3,7 +3,8 @@
 # Promotional Partners
 
 - DE Podcast: https://learndataengineering.com/
-
+- https://www.theseattledataguy.com/
+- 
 
 # Competitors
 
