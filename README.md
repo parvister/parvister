@@ -37,6 +37,12 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 # Tura Strategy
 -------------------------------------------------
 
+## to discuss
+
+02/03:
+  - bank line of credit
+
+
 ## this week
 
 - Pursue online networking:  advisory board for DSA
