@@ -99,36 +99,6 @@ Performing tasks:
 - sm
 
 
-NOVEMBER
-Week of 11/7-13
-- Meeting with Parham to finalize timeline
-- Finalize strategy and schedule
-- Meeting with graphic designer + web developer
-- Setup social media
-- ONGOING: Schedule content + social media posts/stories
-- Create database for relevant media
-- Create explainer video
-- Quiz creation + funnel
-- Setup Mailchimp
-- Competitor research + Google Alert for competitors
-- ONGOING: reaching out to connections for webinars/meeting
-- Create scripts for: personal contacts, industry professionals, etc.
-
-Week of 11/14-20
-- Approve website
-- ONGOING: Weekly meeting with Parham
-- Setup segments in Mailchimp (need the funnel/lead form to
-- be done)
-- Send out press release to media database (after site is done)
-- Submit site to relevant forums/reddit
-- ONGOING: Start pushing media spots
-- ONGOING: Start adding media spots and shoutouts on social
-- and website
-- ONGOING: Meetings with relevant connections
-- ONGOING: Sending out emails
-- ALL ONGOING
-
-
 # Iran Manifesto
 -----------------------------------------------------------
 
