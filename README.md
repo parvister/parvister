@@ -46,7 +46,11 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 02/03:
   - bank line of credit
   - incorporate long-term planning tools: https://www.clearpointstrategy.com/strategic-planning-models/
-  - 
+  - Strategy planning:
+    - DSA internship: move Nick assist
+    - DSA corp review task definitions together
+    - Consulting: website updates
+    - Consulting is not planned
 
 
 ## this week
