@@ -59,6 +59,7 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 - Pursue some social media (reddit/AMA) conversations
 - Engage with ATOS for the December Deal with DTNA with sparkle!
 - Come up with 3 companies to begin to pursue opportunities
+  - https://loka.com/ - SF Data Engineering & Science
   - https://www.kinandcarta.com/
     great clients, global, partnership with azure and gcp, socially responsible, moral compass
     offices in nyc, chicago, denver, sfo, NO pnw
