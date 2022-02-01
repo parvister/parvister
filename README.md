@@ -19,6 +19,10 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 # checklist
 -------------------------------------------------
 
+**READ THIS**
+https://www.clearpointstrategy.com/strategic-planning-models/
+
+
 
 # Parking Lot
 -------------------------------------------------
@@ -41,6 +45,8 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 
 02/03:
   - bank line of credit
+  - incorporate long-term planning tools: https://www.clearpointstrategy.com/strategic-planning-models/
+  - 
 
 
 ## this week
