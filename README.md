@@ -43,21 +43,13 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 
 ## to discuss
 
-02/03:
-  - bank line of credit
-  - incorporate long-term planning tools: https://www.clearpointstrategy.com/strategic-planning-models/
-  - Strategy planning:
-    - DSA internship: move Nick assist
-    - DSA corp review task definitions together
-    - Consulting: website updates
-    - Consulting is not planned
-
-
 ## this week
 
-- Pursue online networking:  advisory board for DSA
-- Pursue some social media (reddit/AMA) conversations
-- Engage with ATOS for the December Deal with DTNA with sparkle!
+- Add packages page on the existing Tura site
+- Marketing strategy for corporate consulting after website done
+- Find out if the Bootcamp registrants have paid
+- Outreach to sub contractors with whom you have relationships
+
 - Come up with 3 companies to begin to pursue opportunities
   - https://loka.com/ - SF Data Engineering & Science
   - https://www.kinandcarta.com/
