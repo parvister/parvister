@@ -1,7 +1,11 @@
 
+# Graphic Designers on Upwork
+- Guylene Solon: (great designer) https://calendly.com/guylenedesign/design-discovery-call . https://www.upwork.com/freelancers/~011b4a1fb2ae5144a3
+- Wajeeha Khan (cheap): https://www.upwork.com/freelancers/~01b302de35c5c440e1
+
+
+
 # Marketing Hire
-
-
 Hey!
 We’re looking for a part-time creatively  intelligent and highly enthusiastic marketing person. 
 

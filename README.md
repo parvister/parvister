@@ -19,6 +19,12 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 # checklist
 -------------------------------------------------
 
+- tura.io site 2022:
+  - designs: https://dataveyes.com/en . https://datavisual.nl/
+  - look in Freelancers for other good candidates
+
+
+
 **READ THIS**
 https://www.clearpointstrategy.com/strategic-planning-models/
 
