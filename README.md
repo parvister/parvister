@@ -29,6 +29,21 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 https://www.clearpointstrategy.com/strategic-planning-models/
 
 
+# HOT SHELF
+-----------------------------------------------------------------------
+
+- 7 days of data engineering. short 10m marketing videos to teach one skill
+- TikTok: data engineering persian style!
+
+
+# WARM SHELF
+-----------------------------------------------------------------------
+
+- Streaming services comparison: https://www.dacast.com/blog/10-best-live-streaming-platforms-for-pros
+- 
+
+# THE SELF
+-----------------------------------------------------------------------
 
 # Parking Lot
 -------------------------------------------------
