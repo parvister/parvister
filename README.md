@@ -12,6 +12,10 @@
 **Hobbies**
   1. Computer things that make me happy!
 
+**reCAPTCHA:**
+  SITE KEY: 6LeouWceAAAAALakdcH7yH775vOvDV393q_98lvb
+  SECRET KEY: 6LeouWceAAAAALSjGF8l2nsSl_H_mwxydfLjokXT
+  
 
 https://github.com/ThibTrip/pangres/wiki/Upsert
 
@@ -42,6 +46,11 @@ Airflow ADF integration: https://www.astronomer.io/events/recaps/using-airflow-w
 - create find_path option
   - search with airline, src, dest, and departure time limits
   - recursive search for direct flight and then possible connecting flights
+
+Soccer Cleats:
+  - **Nike Phantom GT2 Club MG:** https://www.nike.com/t/phantom-gt2-club-mg-multi-ground-soccer-cleat-74ZB5F/DA5640-167
+  - Nike Tiempo Legend 9 Academy MG: https://www.nike.com/t/tiempo-legend-9-academy-mg-multi-ground-soccer-cleats-jj4C4w/DA1174-176
+  - Adidas Copa: https://www.adidas.com/us/copa-sense.1-artificial-grass-cleats/FY6207.html
 
 
 # Tura Strategy
