@@ -12,10 +12,6 @@
 **Hobbies**
   1. Computer things that make me happy!
 
-**reCAPTCHA:**
-  SITE KEY: 6LeouWceAAAAALakdcH7yH775vOvDV393q_98lvb
-  SECRET KEY: 6LeouWceAAAAALSjGF8l2nsSl_H_mwxydfLjokXT
-  
 
 https://github.com/ThibTrip/pangres/wiki/Upsert
 
