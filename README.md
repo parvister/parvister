@@ -25,8 +25,10 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 
 
 
-**READ THIS**
-https://www.clearpointstrategy.com/strategic-planning-models/
+# READ/RESEARCH THIS
+
+- 2022/03/08: CNCF Cloud Native Computing Foundation: https://www.cncf.io/about/who-we-are/
+- https://www.clearpointstrategy.com/strategic-planning-models/
 
 
 # HOT SHELF
