@@ -32,6 +32,10 @@ https://www.clearpointstrategy.com/strategic-planning-models/
 # HOT SHELF
 -----------------------------------------------------------------------
 
+- Thought leaders to follow:
+  - Sunil Chathaveetil - Forbes, Data is coal
+  - Scott Carey - Info World, Knative to CNCF
+- Course lesson: Most bad data is a result of duplicate and redundant data, multiple data sources, missing data, incomplete data, invalid data, formatting inconsistencies and human error
 - 7 days of data engineering. short 10m marketing videos to teach one skill
 - TikTok: data engineering persian style!
 
