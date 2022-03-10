@@ -128,16 +128,21 @@ Soccer Cleats:
 - DSA and Tura consulting and advocate partner: https://www.theseattledataguy.com/
 
 
-# CJ
----------------------------------------------------------
 
-Performing tasks:
-- Database / funnel
-- Newsletters
-- Talks, Webinars
-- Epicodus co-marketing
-- Shoe-letter marketing
-- sm
+# DSA - Marketing
+-----------------------------------------------------------
+
+Ideas:
+- Intro to data engineering: 
+  - 10 part short 15min videos plus exercises to finish by building an airflow/gcp pipeline
+  - take a look at: https://www.alchemycodelab.com/developer-101
+  - direct all webinars / marketing to it
+- Understanding data engineering
+  - 5 part short 10min video explaining data engineering
+  - day-to-day life, salary, history, skills 
+- 5 days of ______ Series
+  - 5 day long teaching a concept
+  - 10min concept + 10min code along sessions each day
 
 
 # Iran Manifesto
