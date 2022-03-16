@@ -75,6 +75,12 @@ Soccer Cleats:
 
 ## to discuss
 
+- bank doesn't lend to me
+- I've made no $$$ in 6 years, 2 years
+- I have crazy mood swings
+- I'm stressed all the time!
+- 
+
 ## this week
 
 - Add packages page on the existing Tura site
