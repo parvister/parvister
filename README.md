@@ -83,6 +83,11 @@ Soccer Cleats:
 
 ## this week
 
+2022-03-03
+- Leading Indicators about classroom success on a spreadsheet
+- Assess which chapters/content to cut if the class is overwhelmed and how you will know
+- Impeccably do the outreach schedule
+
 - Add packages page on the existing Tura site
 - Marketing strategy for corporate consulting after website done
 - Find out if the Bootcamp registrants have paid
