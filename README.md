@@ -56,8 +56,8 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 -------------------------------------------------
 
 ## to discuss with Cathy (Epicodus):
-- porting friday projects
-- meeting on thu 03/31 afternoon with de-track
+- porting friday projects >> brooke@epicodus.com
+- meeting on thu 03/31 afternoon with de-track > run that 
 - review discord channels
 
 
