@@ -34,6 +34,7 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 # HOT SHELF
 -----------------------------------------------------------------------
 
+- https://towardsdatascience.com/
 - Grubhub code: XBKCYP9NPJ5STXBQ2
 - Thought leaders to follow:
   - Sunil Chathaveetil - Forbes, Data is coal
