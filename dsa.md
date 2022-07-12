@@ -1,4 +1,11 @@
 
+# General Business Notes
+
+- Partnering with consulting / recruiting agencies
+  - slalom
+  - robert half tech ↦ Escobar, Jimmy <jimmy.escobar@roberthalf.com>, email from Jarret Jeter
+  - friends: Carlos, Cahlen, Amina, Catherine
+
 
 # Promotional Partners
 
@@ -12,5 +19,6 @@
 
 # Other "partner" schools
 
+- https://adadevelopersacademy.org/
 - https://www.forwardschool.co/spaces
 - 
