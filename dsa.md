@@ -21,4 +21,11 @@
 
 - https://adadevelopersacademy.org/
 - https://www.forwardschool.co/spaces
-- 
+
+# Internship - March 2022 Cohort
+
+- Internship dates: 08/15 - 09/16
+- Interviews: 08/01 - 08/04
+- Match making process: week of 08/08
+- We need to provide support to Jasmine for match making process
+
