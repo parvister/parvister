@@ -29,3 +29,8 @@
 - Match making process: week of 08/08
 - We need to provide support to Jasmine for match making process
 
+# Documentation
+
+- https://github.com/dbt-labs/docs.getdbt.com
+- https://docusaurus.io/
+- 
