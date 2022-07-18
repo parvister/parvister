@@ -33,4 +33,8 @@
 
 - https://github.com/dbt-labs/docs.getdbt.com
 - https://docusaurus.io/
+
+
+# Marketing Tips (Mailchimp)
+- https://mailchimp.com/resources/three-tips-for-optimizing-your-content-in-real-time/
 - 
