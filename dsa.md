@@ -37,4 +37,5 @@
 
 # Marketing Tips (Mailchimp)
 - https://mailchimp.com/resources/three-tips-for-optimizing-your-content-in-real-time/
+- https://mailchimp.com/resources/common-rookie-mistakes-email-marketers/
 - 
