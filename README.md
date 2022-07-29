@@ -22,7 +22,9 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 - tura.io site 2022:
   - designs: https://dataveyes.com/en . https://datavisual.nl/
   - look in Freelancers for other good candidates
-
+- Gusto dismissal articles:
+  - https://support.gusto.com/article/110807134100000/Dismiss-and-rehire-employees
+  - https://support.gusto.com/article/106622198100000/Classify-an-employee-as-an-owner-and-pay-them-owner-s-draws
 
 
 # READ/RESEARCH THIS
