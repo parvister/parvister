@@ -12,6 +12,9 @@
 **Hobbies**
   1. Computer things that make me happy!
 
+**LEARN MACHINE LEARNING**
+https://github.com/alexeygrigorev/mlbookcamp-code
+
 
 https://github.com/ThibTrip/pangres/wiki/Upsert
 
