@@ -32,6 +32,7 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 
 # READ/RESEARCH THIS
 
+- **Bootcamp Reports**: https://www.coursereport.com/resources/research-reports
 - 2022/03/08: CNCF Cloud Native Computing Foundation: https://www.cncf.io/about/who-we-are/
 - https://www.clearpointstrategy.com/strategic-planning-models/
 
