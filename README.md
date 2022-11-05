@@ -42,7 +42,6 @@ https://github.com/ThibTrip/pangres/wiki/Upsert
 
 - https://towardsdatascience.com/
 - Technologies to research: https://docs.microsoft.com/en-us/azure/databricks/integrations/prep/dbt
-- Horseback riding: http://www.dreamridgestable.com/index.html
 - Grubhub code: XBKCYP9NPJ5STXBQ2
 - Thought leaders to follow:
   - Sunil Chathaveetil - Forbes, Data is coal
